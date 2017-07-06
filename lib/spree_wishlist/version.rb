@@ -11,7 +11,7 @@ module SpreeWishlist
     MAJOR = 3
     MINOR = 2
     TINY  = 1
-    PRE   = nil
+    PRE   = 'alpha'
 
     STRING = [MAJOR, MINOR, TINY, PRE].compact.join('.')
   end
