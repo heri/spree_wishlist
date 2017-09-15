@@ -7,7 +7,7 @@ require 'spree_wishlist/version'
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_wishlist'
-  s.version     = '3.2.1.1beta'
+  s.version     = '3.2.1.2alpha'
   s.summary     = 'Add wishlists to Spree'
   s.description = s.summary
   s.required_ruby_version = '>= 2.1.0'
